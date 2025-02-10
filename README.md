@@ -2,7 +2,7 @@ It's a simple HTML, CSS, and JavaScript version of the famous Tic Tac Toe game. 
 Features
 Two Player Mode: A game against friends.
 Interactive User Interface: A click on the grid makes a move.
-Game Logic: Wins, draws are automatically detected with the status updated.
+Game Logic:- Wins, draws are automatically detected with the status updated.
 Restart option: Reset game with a click.
 Responsive Design: Works with all devices and screen sizes.
 How to Play
